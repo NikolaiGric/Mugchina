@@ -1,0 +1,8 @@
+{
+  "item.mptmod.amber": "Янтарь",
+  "item.mptmod.amber_raw": "Необработанный янтарь",
+  "block.mptmod.amber_ore": "Янтарная руда",
+  "block.mptmod.deepslate_amber_ore": "Глубинная янтарная руда",
+  "block.mptmod.amber_block": "Блок Янтаря",
+  "itemGroup.Mpt tab": "МПТ мод"
+}
